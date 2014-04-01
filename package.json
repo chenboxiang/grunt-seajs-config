@@ -1,7 +1,7 @@
 {
   "name": "grunt-seajs-config",
   "description": "生成seajs config文件的grunt插件",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/chenboxiang/grunt-seajs-config",
   "author": {
     "name": "boxiang chen",
