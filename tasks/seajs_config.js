@@ -77,5 +77,4 @@ module.exports = function(grunt) {
         grunt.file.write(options.dest, destData);
         grunt.log.ok("The seajs config file [" + options.dest + "] created.");
     });
-
 };
