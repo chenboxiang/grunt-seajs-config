@@ -1,0 +1,42 @@
+{
+  "name": "grunt-seajs-config",
+  "description": "生成seajs config文件的grunt插件",
+  "version": "0.1.0",
+  "homepage": "https://github.com/chenboxiang/grunt-seajs-config",
+  "author": {
+    "name": "boxiang chen",
+    "email": "gozap.chenboxiang@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chenboxiang/grunt-seajs-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chenboxiang/grunt-seajs-config/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/chenboxiang/grunt-seajs-config/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "grunt": "~0.4.0",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-mocha-test": "^0.10.0"
+  },
+  "keywords": [
+    "gruntplugin"
+  ],
+  "dependencies": {
+    "cmd-util": "^0.3.12"
+  }
+}
