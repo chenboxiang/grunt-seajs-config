@@ -27,16 +27,17 @@
     "test": "grunt test"
   },
   "devDependencies": {
-    "expect.js": "^0.3.1",
+    "expect.js": "0.3.1",
     "grunt": "~0.4.0",
     "grunt-contrib-clean": "~0.5.0",
     "grunt-contrib-jshint": "~0.6.0",
-    "grunt-mocha-test": "^0.10.0"
+    "grunt-mocha-test": "0.10.0",
+    "mocha": "1.18.2"
   },
   "keywords": [
     "gruntplugin"
   ],
   "dependencies": {
-    "cmd-util": "^0.3.12"
+    "cmd-util": "0.3.12"
   }
 }
